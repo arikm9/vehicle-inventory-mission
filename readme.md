@@ -3,7 +3,7 @@
 This project is a home project mission - A car inventory manager.
 
 
-### Intalling the dependencies
+### Installing the dependencies
 
 Before running the project, please install the dependencies in both client and server folders
 
