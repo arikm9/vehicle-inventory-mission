@@ -1,6 +1,7 @@
 # Vehicle Inventory
 
-An home project mission.
+This project is a home project mission - A car inventory manager.
+
 
 ### Intalling the dependencies
 
